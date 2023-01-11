@@ -350,5 +350,5 @@ solve.configure(bg='#FCD4D4',width = 12)
 solve.place(x = 120,y = 575)
 
 
-
+print("[+]Debug enabled")
 root.mainloop()
